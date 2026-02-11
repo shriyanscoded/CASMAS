@@ -28,8 +28,9 @@ Standard calculator apps prioritize efficiency, but students often struggle in e
 
 ## 💻 Installation
 1. **Clone the repository:**
-   `git clone https://github.com/your-username/cas-mas.git`
+   `git clone (https://github.com/shriyanscoded/CASMAS.git)
 2. **Install dependencies:**
    `npm install`
 3. **Start the development server:**
    `npm run dev`
+
